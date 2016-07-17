@@ -1,7 +1,7 @@
 {
   "name": "data-hopper",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.0.0",
+  "description": "A place to store all your database connections!",
   "author": "Andres Hermosilla <an2dres5m@gmail.com>",
   "dependencies": {
     "bluebird": "^3.3.5",

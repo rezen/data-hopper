@@ -5,9 +5,9 @@
   "author": "Andres Hermosilla <an2dres5m@gmail.com>",
   "dependencies": {
     "bluebird": "^3.3.5",
-    "elasticsearch": "^11.0.1",
+    "elasticsearch": "^12.0.0",
     "eventemitter2": "^1.0.3",
-    "knex": "^0.11.0",
+    "knex": "^0.14.3",
     "mongodb": "^2.1.18",
     "mysql": "~2.10.2",
     "nedb": "^1.1.2",
